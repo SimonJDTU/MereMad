@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "342286326921",
+    "firebase_url": "https://meremad-43aae.firebaseio.com",
+    "project_id": "meremad-43aae",
+    "storage_bucket": "meremad-43aae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342286326921:android:89a43f8bf0f5de2d",
+        "android_client_info": {
+          "package_name": "com.johansen.dk.meremad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342286326921-f2pjkmbfvpceghnv31ffd4521p58ebjr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.johansen.dk.meremad",
+            "certificate_hash": "79b91b7337059b25fac874866459f294e4dd11a5"
+          }
+        },
+        {
+          "client_id": "342286326921-ofpmqbmd6vv6r062k9seha28idrgfqom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVfc9J80rtfgJeR7sY8WNiMLY0-r3XZ5A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342286326921-ofpmqbmd6vv6r062k9seha28idrgfqom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

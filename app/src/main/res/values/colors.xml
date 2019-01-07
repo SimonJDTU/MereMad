@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    //tab'd out topbar color
+    <color name="colorPrimary">#F39D22</color>
+    //in app topbar color
+    <color name="colorPrimaryDark">#F39D22</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="backgroundColor">#F39D22</color>
+
+</resources>
